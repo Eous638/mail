@@ -1,0 +1,35 @@
+  <mjml>
+  <mj-body background-color="#181818">
+  
+      <mj-section >
+        <mj-column > 
+          <mj-text align="center">
+            <h1 style="color: #c2410c">Gladni - prijava restorana</h1>
+          </mj-text>
+          <mj-divider />
+          
+          <mj-text font-size="1.2rem" align="justify" >
+            <p style="color: #909090", font-size="">Dobar dan,
+            <br/>
+            <br/>
+              Šaljemo Vam ponudu za saradnju u razvijanju potpuno nove aplikacije za dostavu hrane. Dok Vam druge platforme nude 27% provizije i monopol nad Vašim podacima, mi pokušavamo da stvorimo otvorenu i <span style="color:#f78539">decentralizovanu platformu bez provizije.</span>
+              <br/>
+              <br/>
+              Uz pomoć decentralizacije vraćamo dostavu hrane u njeno prirodno stanje. Umesto korišćenja centralizovanih platformi koje koriste zatvorene servere i služe interesu dalekih korporacija, mi primenjujemo Hyperledger tehnologiju da bismo stvorili ekosistem u kome svaki član uspostavlja dogovor i konsenzus na osnovu otvorenih protokola, između svih relevantnih članova u mreži.
+              <br/>
+              <br/>
+              U zamene za <span style="color:#e84900">0% provizije </span>tražimo da cene koje postavite u našoj aplikaciji budu iste one iz menija u Vašim restoranima.
+              <br/>
+              <br/>
+            </p>
+          </mj-text>
+           <mj-button font-size="20px" background-color="#272727" border-radius="8px" color="#c2410c" href="https://gladni.rs">Saznaj više</mj-button>
+           <mj-text>
+            <h1 style="color:#636363; font-size:2rem">Timeline</h1>
+            <img src="timeline.png" alt="" style="max-height:250px">
+          </mj-text>
+          <mj-button font-size="20px" background-color="#272727" border-radius="8px" color="#c2410c" href="https://prijava.gladni.rs">Prijavi se</mj-button>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
